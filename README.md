@@ -20,6 +20,8 @@ La aplicación de análisis de datos y análisis predictivo recopilará las acci
 
 La mayor parte del cerebro de la aplicación está en el back-end debido a que en ese momento no pudimos salir del front-end sin burlarnos. Pero puedes consultar la documentación del backend en swagger.
 
+## 🧪 Swagger (Documentación y pruebas de backend.)
+http://3.145.165.61:8080/swagger/index.html
 ---
 
 <details>
